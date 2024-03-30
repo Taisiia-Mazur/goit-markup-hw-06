@@ -170,7 +170,7 @@ font-style: normal;
   .hero-section {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)),
-      url(../images/main-2x.jpg);
+      url(../images/main-mob-2x.jpg);
   }
 }
 
