@@ -853,8 +853,12 @@ address {
   footer {
     display: flex;
   }
+
+  .footer-container {
+    width: 584px;
+  }
   .footer-section {
-    padding: 96px 108px;
+    padding: 96px 0;
   }
   .footer-logo {
     margin-right: 24px;
