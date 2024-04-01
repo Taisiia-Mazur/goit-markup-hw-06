@@ -770,7 +770,8 @@ footer .logo-accent {
     height: 4px;
     content: "";
     background-color: #404bbf;
-    margin-top: 26px;
+    bottom: -6px;
+    left: 0;
   }
 address {
   font-style: normal;
@@ -907,7 +908,7 @@ address {
   font-size: 16px;
 }
     .header-link-psevdo::after {
-      margin-top: 21px;
+      bottom: -1px;
     }
   .hero-section {
     padding: 188px 0;
